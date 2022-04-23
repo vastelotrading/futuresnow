@@ -1,0 +1,1 @@
+execute: python clock.py
